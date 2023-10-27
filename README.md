@@ -68,13 +68,10 @@ If you want to contribute to the project, follow these steps:
 
 5. Create a pull request to the main repository's `master` branch.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
-CU News App was created by [Your Name]. Special thanks to the Christ University community for their support and contributions.
+CU News App was created by Shaarang Prabhudesai. Special thanks to the Christ University community for their support and contributions.
 
 We welcome any feedback, bug reports, or feature requests. Feel free to open an issue or contact us.
 
